@@ -1,0 +1,7 @@
+E:\БОРОВ\maclaurin series\maclaurin series\bin\Debug\maclaurin series.exe.config
+E:\БОРОВ\maclaurin series\maclaurin series\bin\Debug\maclaurin series.exe
+E:\БОРОВ\maclaurin series\maclaurin series\bin\Debug\maclaurin series.pdb
+E:\БОРОВ\maclaurin series\maclaurin series\obj\Debug\maclaurin series.csprojAssemblyReference.cache
+E:\БОРОВ\maclaurin series\maclaurin series\obj\Debug\maclaurin series.csproj.CoreCompileInputs.cache
+E:\БОРОВ\maclaurin series\maclaurin series\obj\Debug\maclaurin series.exe
+E:\БОРОВ\maclaurin series\maclaurin series\obj\Debug\maclaurin series.pdb
